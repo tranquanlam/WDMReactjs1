@@ -1,0 +1,23 @@
+[
+    {
+        "id": 0,
+        "ten" : "Tran Quan Lam",
+        "role" : "admin",
+        "email" : "quanlamtran@gmail.com",
+        "password" :"098"
+    },
+    {
+        "id": 1,
+        "ten" : "Alex",
+        "role" : "user",
+        "email" : "quanlam@gmail.com",
+        "password" :"098"
+    },
+    {
+        "id": 2,
+        "ten" : "Peter",
+        "role" : "user",
+        "email" : "quanlam@gmail.com",
+        "password" :"098"
+    }
+]

@@ -1,0 +1,56 @@
+.dropdownmenu {
+    position: relative;
+    display: inline-block;
+    background: #ff3232;
+    height: 50px;
+    border-radius: 10px;
+    width: 150px;
+    text-align: center;
+}
+
+.drop {
+    list-style-type: none; 
+    top:45px;
+    right:0px;
+    width: 200px;
+    background-color: white;
+    font-weight:bold;
+    position: absolute;
+
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+.dropli a {
+    color: #000;
+    text-decoration: none;
+}
+.dropli {
+    padding: 8px 16px;
+    border-bottom: 1px solid #e5e5e5;
+}
+.dropli:last-child {
+    border-bottom: none;
+}
+dropli:hover {
+    background-color: #e5e5e5;
+    color: white;
+}
+.buttondr{
+    width:178px;
+    height:18px;
+    background-color:#c05555 ;
+    padding:12px;
+    border-radius:5px;
+    font-weight:bold;
+    color:rgb(19, 17, 17);
+}
+.buttondr:before{
+    content:"";
+    position:absolute;
+    width:0px;
+    height:0px;
+    border: 10px solid;
+    border-color: white transparent transparent transparent;
+    right:6px;
+    top:18px;
+}

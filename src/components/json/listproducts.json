@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "type": "food",
+        "tenmonan":"Chân gà nướng",
+        "giatien" :50000,
+        "mota" :"Chân gà nướng muối ớt vừa giòn, mặn, cay, ăn thử một miếng vị ngon đậm đà.",
+        "hinhanh" :"https://www.foodnk.com/wp-content/uploads/2014/07/B%E1%BA%ADt-m%C3%AD-th%E1%BB%A7-thu%E1%BA%ADt-ph%C3%B9-ph%C3%A9p-ch%C3%A2n-g%C3%A0-n%C6%B0%E1%BB%9Bng.jpg"
+    },
+    {
+        "id":2,
+        "type": "food",
+        "tenmonan":"Súp cua nấm",
+        "giatien" :150000,
+        "mota" :"Nấu súp cua thập cẩm độc đáo cho ngày sum họp",
+        "hinhanh" :"https://3.bp.blogspot.com/-aif0YTwsKz4/Weq8A8FgGEI/AAAAAAAAAKU/CO2_v1ifD2YROakE6697IDpSCD0FpFQlACLcBGAs/s1600/cach-lam-sup-cua.jpg"
+    },
+    {
+        "id":3,
+        "type": "food",
+        "tenmonan":"Cá trê chiên",
+        "giatien" :80000,
+        "mota" :"Cá trê chiên mắm gừng no căng vẫn thèm",
+        "hinhanh":"https://cdn.tgdd.vn/Files/2014/09/08/565112/ca-tre-chien-mam-gung-no-cang-van-them-5.jpg"
+    },
+    {
+        "id":4,
+        "type": "drink",
+        "tenmonan":"Cafe sữa",
+        "giatien" :25000,
+        "mota" :"Cafe xay nguyên chất",
+        "hinhanh":"data:image/jpeg;base64,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"
+    },
+    {
+        "id":5,
+        "type": "drink",
+        "tenmonan":"Capuchino",
+        "giatien" :25000,
+        "mota" :"Cafe xay nguyên chất",
+        "hinhanh":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgrcK2waZmN1aq9BJatmQ76V3m5dzr-gKpx5GJgQZYdKWGPCUz"
+    },
+    {
+        "id":6,
+        "type": "drink",
+        "tenmonan":"Nước chanh",
+        "giatien" :20000,
+        "mota" :"Nước chanh giải nhiệt",
+        "hinhanh":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOzxWf92z8o059A9yZ_7WboKvLFpoNYxh3llSvMt2fiHAWRmTx"
+    }
+]
